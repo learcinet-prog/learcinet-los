@@ -109,5 +109,3 @@ Construir el ecosistema de automatización empresarial más confiable y accesibl
  
 Artículo 16. Lema Oficial
 No vendemos software. Compramos tiempo para nuestros clientes.
-
-<img width="442" height="631" alt="image" src="https://github.com/user-attachments/assets/0455a277-607f-4956-b35b-6df444cb5d42" />
